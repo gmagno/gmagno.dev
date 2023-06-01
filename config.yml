@@ -1,0 +1,127 @@
+baseURL: https://gmagno.dev
+languageCode: en-us
+title: Gonçalo's Page
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-JBZ15QNYH9
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: gmagno.dev
+  description: "Gonçalo's Page"
+  keywords: [HomePage, Jots]
+  author: Gonçalo
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  custom_css: ["css/fig.css"]
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  hideFooter: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "gmagno.dev"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Gonçalo's
+    subtitle: "Software Developer"
+    imageUrl: "basin_circle_120x120px.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: basin
+    buttons:
+      - name: Jots
+        url: /jots
+      - name: About
+        url: /about
+
+  # home-info mode
+  # homeInfoParams:
+  #   Title: "Gonçalo's"
+  #   Content: Software Developer
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/gmagno"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/1278365/gmagno"
+    - name: linkedin
+      url: https://www.linkedin.com/in/goncalo-morgado/
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: jots
+      name: jots
+      url: /jots/
+      weight: 10
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

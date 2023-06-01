@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 569.9615384615383 103.30769230769232"
+   width="569.9615384615383"
+   height="103.30769230769232"
+   filter="invert(93%) hue-rotate(180deg)"
+   id="svg66"
+   sodipodi:docname="use_case.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview68"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="313.42508"
+     inkscape:cy="31.112698"
+     inkscape:window-width="2560"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg66" />
+  <!-- svg-source:excalidraw -->
+  <defs
+     id="defs4">
+    <style
+       class="style-fonts"
+       id="style2">
+      @font-face {
+        font-family: &quot;Virgil&quot;;
+        src: url(&quot;https://file%2B.vscode-resource.vscode-cdn.net/home/gm/.vscode/extensions/pomdtr.excalidraw-editor-3.5.1/public//dist/excalidraw-assets/Virgil.woff2&quot;);
+      }
+      @font-face {
+        font-family: &quot;Cascadia&quot;;
+        src: url(&quot;https://file%2B.vscode-resource.vscode-cdn.net/home/gm/.vscode/extensions/pomdtr.excalidraw-editor-3.5.1/public//dist/excalidraw-assets/Cascadia.woff2&quot;);
+      }
+    </style>
+  </defs>
+  <g
+     stroke-linecap="round"
+     transform="translate(10 11.307692307692264) rotate(0 59.5 41.00000000000003)"
+     id="g8">
+    <path
+       d="M20.5 0 M20.5 0 C39.92 1.59, 58.87 -0.21, 98.5 0 M20.5 0 C49 -0.07, 77.18 -0.48, 98.5 0 M98.5 0 C111.71 -0.5, 120.59 5.24, 119 20.5 M98.5 0 C111.9 1.94, 117.96 8.36, 119 20.5 M119 20.5 C118.09 36.17, 118.84 51.74, 119 61.5 M119 20.5 C118.96 31.71, 118.59 42.22, 119 61.5 M119 61.5 C117.33 76.88, 111.26 81.4, 98.5 82 M119 61.5 C120.74 75.85, 113.21 84.02, 98.5 82 M98.5 82 C73.79 83.82, 53.35 80.39, 20.5 82 M98.5 82 C76.9 81.31, 56.2 81.52, 20.5 82 M20.5 82 C5.56 83.05, 1.77 75.66, 0 61.5 M20.5 82 C5.42 79.79, -1.36 74.25, 0 61.5 M0 61.5 C2.01 48.94, 0.2 32.31, 0 20.5 M0 61.5 C0.01 48.44, -0.03 37.15, 0 20.5 M0 20.5 C1.59 7.3, 8.26 -1.52, 20.5 0 M0 20.5 C0.87 4.83, 9.12 -1.58, 20.5 0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path6" />
+  </g>
+  <g
+     transform="translate(48.620025634765625 39.807692307692264) rotate(0 20.879974365234375 12.5)"
+     id="g12">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Humor Sans';-inkscape-font-specification:'Humor Sans';fill:#0000ff"
+       x="-3.0654175"
+       y="16.740952"
+       id="text334"><tspan
+         sodipodi:role="line"
+         id="tspan332"
+         x="-3.0654175"
+         y="16.740952"
+         style="font-size:16px;fill:#000000">USER</tspan></text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g26">
+    <g
+       transform="translate(142.00000000000023 52.53846153846155) rotate(0 31.492564541633442 -0.13549394095542766)"
+       id="g16">
+      <path
+         d="M-0.41 0.95 C9.73 1.07, 50.62 0.59, 61.24 0.58 M1.58 0.4 C12.04 0.18, 53.14 -1, 63.39 -1.24"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path14" />
+    </g>
+    <g
+       transform="translate(142.00000000000023 52.53846153846155) rotate(0 31.492564541633442 -0.13549394095542766)"
+       id="g20">
+      <path
+         d="M37.06 7.98 C45.73 7.92, 55.51 4.1, 62.38 0.05 M36.03 9.83 C45.73 5.36, 54.9 1.31, 63.93 -1.34"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path18" />
+    </g>
+    <g
+       transform="translate(142.00000000000023 52.53846153846155) rotate(0 31.492564541633442 -0.13549394095542766)"
+       id="g24">
+      <path
+         d="M36.53 -12.54 C45.36 -5.77, 55.31 -2.78, 62.38 0.05 M35.5 -10.68 C45.48 -7.64, 54.84 -4.17, 63.93 -1.34"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path22" />
+    </g>
+  </g>
+  <mask
+     id="mask28" />
+  <g
+     stroke-linecap="round"
+     transform="translate(219.4230769230769 10) rotate(0 59.5 40.99999999999997)"
+     id="g32">
+    <path
+       d="M20.5 0 M20.5 0 C34.93 -0.36, 53.12 -1.76, 98.5 0 M20.5 0 C50.92 0.54, 79.38 -0.55, 98.5 0 M98.5 0 C113.29 -1.84, 118.85 6.96, 119 20.5 M98.5 0 C113.55 2.05, 117.96 8.18, 119 20.5 M119 20.5 C120.01 29.39, 121 40.23, 119 61.5 M119 20.5 C118.87 30.67, 118.84 42.36, 119 61.5 M119 61.5 C117.1 75.64, 112.46 83.08, 98.5 82 M119 61.5 C117.77 76.54, 112.46 83.52, 98.5 82 M98.5 82 C73.95 81.95, 53.25 80.72, 20.5 82 M98.5 82 C79.31 83.02, 61.33 81.8, 20.5 82 M20.5 82 C6.85 80.11, -1.33 77.05, 0 61.5 M20.5 82 C7.27 80.27, -0.96 74.46, 0 61.5 M0 61.5 C-1.94 48.96, -1.36 32.47, 0 20.5 M0 61.5 C-0.28 53.57, -0.7 45.79, 0 20.5 M0 20.5 C1.55 8.05, 5.43 0.55, 20.5 0 M0 20.5 C0.65 7.99, 7.73 1.72, 20.5 0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path30" />
+  </g>
+  <g
+     transform="translate(225.80314284104566 26) rotate(0 53.11993408203125 24.99999999999997)"
+     id="g38">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Humor Sans';-inkscape-font-specification:'Humor Sans';fill:#000000"
+       x="52.57402"
+       y="17.69389"
+       id="text440"><tspan
+         sodipodi:role="line"
+         x="52.57402"
+         y="17.69389"
+         id="tspan442"
+         style="font-size:16px;text-align:center;text-anchor:middle">THIRD-PARTY</tspan><tspan
+         sodipodi:role="line"
+         x="52.57402"
+         y="37.69389"
+         id="tspan446"
+         style="font-size:16px;text-align:center;text-anchor:middle">APPLICATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Humor Sans';-inkscape-font-specification:'Humor Sans';fill:#000000"
+       x="274.31726"
+       y="17.293146"
+       id="text450"><tspan
+         sodipodi:role="line"
+         id="tspan448"
+         x="274.31726"
+         y="17.293146"
+         style="font-size:16px;text-align:center;text-anchor:middle">SERVICE</tspan><tspan
+         sodipodi:role="line"
+         x="274.31726"
+         y="37.293144"
+         id="tspan452"
+         style="font-size:16px;text-align:center;text-anchor:middle">PROVIDER</tspan></text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(440.96153846153834 10.538461538461547) rotate(0 59.5 41.00000000000003)"
+     id="g42">
+    <path
+       d="M20.5 0 M20.5 0 C42.28 1.71, 66.93 -0.57, 98.5 0 M20.5 0 C48.64 0.95, 75.4 -0.82, 98.5 0 M98.5 0 C111.39 0.63, 119.37 7.42, 119 20.5 M98.5 0 C112.64 0.94, 117.31 5.72, 119 20.5 M119 20.5 C118.57 31.75, 118.38 43.39, 119 61.5 M119 20.5 C118.17 30.75, 119.55 41.96, 119 61.5 M119 61.5 C117.88 74.07, 112.06 83.22, 98.5 82 M119 61.5 C119.01 74.69, 113.16 80.25, 98.5 82 M98.5 82 C79.13 83.22, 61.84 79.98, 20.5 82 M98.5 82 C82.15 82.65, 65.26 82.94, 20.5 82 M20.5 82 C6.94 82.3, 1.66 75.81, 0 61.5 M20.5 82 C6.84 83.19, -0.32 75.5, 0 61.5 M0 61.5 C-1.1 46.93, -1.07 28.76, 0 20.5 M0 61.5 C-0.2 53.63, -0.78 45.08, 0 20.5 M0 20.5 C-1.57 7.91, 7.86 -1.5, 20.5 0 M0 20.5 C1.25 5.42, 5.27 -1.75, 20.5 0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path40" />
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g62">
+    <g
+       transform="translate(355.8920508429826 52.28934009480162) rotate(0 30.97893672012367 0.4298925465396337)"
+       id="g52">
+      <path
+         d="M-0.84 0.57 C9.43 0.58, 52.31 -0.31, 62.8 -0.27 M0.91 -0.18 C10.97 0.04, 52.06 1.28, 62.11 1.12"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path50" />
+    </g>
+    <g
+       transform="translate(355.8920508429826 52.28934009480162) rotate(0 30.97893672012367 0.4298925465396337)"
+       id="g56">
+      <path
+         d="M34.76 11.9 C44.59 7.02, 57.57 2.48, 61.34 1.45 M33.45 11.16 C42.66 8.21, 53.09 4.46, 62.74 1.75"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path54" />
+    </g>
+    <g
+       transform="translate(355.8920508429826 52.28934009480162) rotate(0 30.97893672012367 0.4298925465396337)"
+       id="g60">
+      <path
+         d="M34.98 -8.62 C44.67 -5.38, 57.56 -1.79, 61.34 1.45 M33.67 -9.36 C42.66 -5.52, 53.02 -2.48, 62.74 1.75"
+         stroke="#1e1e1e"
+         stroke-width="1"
+         fill="none"
+         id="path58" />
+    </g>
+  </g>
+  <mask
+     id="mask64" />
+</svg>

@@ -1,0 +1,6 @@
+body:not(.dark) .fig_dark {
+    display: none;
+  }
+  .dark .fig_light {
+    display: none;
+  }
