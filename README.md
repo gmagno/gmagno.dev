@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/gmagno/igl">
@@ -10,7 +9,7 @@
   <p align="center">
     <a href="https://gmagno.dev"><strong>gmagno.dev</strong></a>
   </p>
-  
+
   <p align="center">
       <img src="https://github.com/gmagno/gmagno.dev/actions/workflows/hugo.yaml/badge.svg" alt="deploy_hugo_badge">
   </p>
