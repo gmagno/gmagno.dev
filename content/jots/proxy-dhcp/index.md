@@ -8,6 +8,8 @@ imgurl: "https://unsplash.com/photos/xyDQNmT6vSs"
 
 > Jotting down some notes on how to setup a proxyDHCP using dnsmasq in order to boot a device from a network rather than from a local drive.
 
+<!--more-->
+
 {{< figure src="/jots/proxy-dhcp/kvistholt-photography-oZPwn40zCK4-unsplash.jpg" caption="Photo by [Kvistholt Photography](https://unsplash.com/photos/oZPwn40zCK4)" link="https://unsplash.com/photos/oZPwn40zCK4" >}}
 
 How to netboot a device in a few simple steps.

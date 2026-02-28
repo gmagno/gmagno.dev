@@ -7,6 +7,8 @@ title: "A quick look at fuel prices in Brazil"
 
 > A simple [dashboard](https://gmagno.github.io/brfuel) showing how fuel prices have evolved in Brazil since 2004 until 2018. Just a set of plots organized by time and brazillian regions. Results discussion is left to the reader.
 
+<!--more-->
+
 {{< figure src="/jots/quick-look-on-brfuel/austrian-national-library-aUhBP3s4BxY-unsplash.jpg" caption="Photo by [Austrian National Library](https://unsplash.com/photos/aUhBP3s4BxY)" link="https://unsplash.com/photos/aUhBP3s4BxY" >}}
 
 The dataset behind the plots is provided by the brazillian government through [ANP](http://www.anp.gov.br) (*Agência Nacional do Petróleo, Gás Natural e Biocombustíveis*).

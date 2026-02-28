@@ -7,6 +7,8 @@ title: "OAuth2 authorization code flow"
 
 > A few notes on oauth2 **authorization code** flow.
 
+<!--more-->
+
 {{< figure src="/jots/oauth2/the-new-york-public-library-76LwGQkt-gg-unsplash.jpg" caption="Photo by [The New York Public Library](https://unsplash.com/photos/76LwGQkt-gg)" link="https://unsplash.com/photos/76LwGQkt-gg" >}}
 
 OAuth2 is an authorization delegation protocol. Meaning: to grant some third party granular access to user resources on their behalf without impersonating them or sharing secrets/passwords.

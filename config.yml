@@ -2,7 +2,8 @@ baseURL: https://gmagno.dev
 languageCode: en-us
 title: Gonçalo's Page
 theme: PaperMod
-paginate: 5
+pagination:
+  pagerSize: 5
 
 enableRobotsTXT: true
 buildDrafts: false
