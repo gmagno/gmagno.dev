@@ -11,4 +11,5 @@ title: "SQLAlchemy 2.x - asyncio"
 
 {{< figure src="/jots/sqlalchemy2-asyncio/austrian-national-library-PIbxkbQTO-Q-unsplash.jpg" caption="Photo by [Austrian National Library](https://unsplash.com/photos/PIbxkbQTO-Q)" link="https://unsplash.com/photos/PIbxkbQTO-Q" >}}
 
-For the full implementation check the repo: [https://github.com/gmagno/sa2exp](https://github.com/gmagno/sa2exp)
+For the full implementation check the repo: [https://github.com/gmagno/sa2exp](https://github.com/gmagno/sa2exp).
+
