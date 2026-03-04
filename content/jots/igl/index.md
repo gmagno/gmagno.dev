@@ -14,3 +14,4 @@ title: "IGL: yet another image viewer"
 Not fully satisfied with the available open-source image viewers for Linux, I build my own, one that is keyboard-friendly, GPU-accelerated for speed, and capable of intelligently pre-loading images into memory:
 
 https://github.com/gmagno/igl
+
